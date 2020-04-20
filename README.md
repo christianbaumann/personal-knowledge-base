@@ -10,3 +10,6 @@ For collecting links, code snippets and other useful stuff.
 [Software Test Resources Collections by others](links/test-resources-collections-by-others.md)  
 [Testautomation](links/testautomation.md)  
 [Tools](links/tools.md)
+
+## Snippets
+[REST Assured](snippets/rest-assured.md)
