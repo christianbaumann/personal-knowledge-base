@@ -6,7 +6,7 @@
 [Technology Labs](https://open.spotify.com/show/1G02YyxN5Dfs8wLI8nBisH)  
 [The Evil Tester Show](https://www.eviltester.com/show/) ([RSS](https://feed.pod.co/the-evil-tester-show))  
 [The Good, The Bad, And The Buggy.](https://smartbear.com/podcast/)  
-[The Guilty Tester](https://theguiltytester.libsyn.com/#) ([RSS](https://theguiltytester.libsyn.com/rss))
+[The Guilty Tester](https://theguiltytester.libsyn.com/#) ([RSS](https://theguiltytester.libsyn.com/rss))  
 [The Ministry of Testing Podcast](https://soundcloud.com/ministryoftesting)  
 [The QA Lead](https://theqalead.com/category/podcast/)  
 [The Testing Show](https://www.qualitestgroup.com/resources/the-testing-show/) ([RSS](https://thetestingshow.libsyn.com/rss))  
