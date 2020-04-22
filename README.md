@@ -7,6 +7,7 @@ For collecting links, code snippets and other useful stuff.
 ## Links
 [Conferences](links/conferences.md)  
 [JMeter](links/jmeter.md)  
+[Podcasts](links/podcasts.md)  
 [Software Test Resources Collections by others](links/test-resources-collections-by-others.md)  
 [Testautomation](links/testautomation.md)  
 [Tools](links/tools.md)
