@@ -14,3 +14,6 @@ For collecting links, code snippets and other useful stuff.
 
 ## Snippets
 [REST Assured](snippets/rest-assured.md)
+
+## Tools
+[Git](tools/git.md)
