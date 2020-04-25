@@ -9,6 +9,7 @@ For collecting links, code snippets and other useful stuff.
 
 ## Links
 [Conferences](links/conferences.md)  
+[Coding Challenges](links/coding-challenges.md)  
 [JMeter](links/jmeter.md)  
 [Misc](links/misc.md)
 [Podcasts](links/podcasts.md)  
