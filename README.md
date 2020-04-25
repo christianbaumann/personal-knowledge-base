@@ -12,6 +12,9 @@ For collecting links, code snippets and other useful stuff.
 [Testautomation](links/testautomation.md)  
 [Tools](links/tools.md)
 
+## Notes
+[Random notes](random-notes/random-notes.md)
+
 ## Snippets
 [REST Assured](snippets/rest-assured.md)
 
