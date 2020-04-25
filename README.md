@@ -4,6 +4,9 @@ For collecting links, code snippets and other useful stuff.
 
 # Table of Contents
 
+## Books to read
+[Books to read](books-to-read/books-to-read.md)
+
 ## Links
 [Conferences](links/conferences.md)  
 [JMeter](links/jmeter.md)  
