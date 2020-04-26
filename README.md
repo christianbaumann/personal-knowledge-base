@@ -4,6 +4,9 @@ For collecting links, code snippets and other useful stuff.
 
 # Table of Contents
 
+## Book Notes
+[Bullet Journaling](book-notes/bullet-journaling.md)
+
 ## Books to read
 [Books to read](books-to-read/books-to-read.md)
 
