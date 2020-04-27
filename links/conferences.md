@@ -1,5 +1,7 @@
 # Conferences
 
+[How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
+
 Johanna Rothman: Create a Conference Proposal the Conference Wants and Accepts
 * [Part 1: Frame the Proposal](https://www.jrothman.com/mpd/2019/11/create-a-conference-proposal-the-conference-wants-and-accepts-part-1-frame-the-proposal/)
 * [Part 2: Start with Outcomes](https://www.jrothman.com/mpd/writing/2019/11/create-a-conference-proposal-the-conference-wants-and-accepts-part-2-start-with-outcomes/)

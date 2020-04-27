@@ -11,13 +11,17 @@ For collecting links, code snippets and other useful stuff.
 [Books to read](books-to-read/books-to-read.md)
 
 ## Links
+[Coding](links/coding.md)  
 [Conferences](links/conferences.md)  
 [Coding Challenges](links/coding-challenges.md)  
 [JMeter](links/jmeter.md)  
-[Misc](links/misc.md)
+[Misc](links/misc.md)  
+[Procrastination](links/procrastination.md)  
 [Podcasts](links/podcasts.md)  
+[Smarthome](links/smarthome.md)  
 [Software Test Resources Collections by others](links/test-resources-collections-by-others.md)  
 [Testautomation](links/testautomation.md)  
+[Testing](links/testing.md)  
 [Tools](links/tools.md)
 
 ## Notes
