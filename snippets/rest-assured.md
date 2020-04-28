@@ -1,4 +1,4 @@
-# REST Assured
+# REST Assured Snippets
 http://rest-assured.io
 
 ```java
