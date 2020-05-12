@@ -13,7 +13,6 @@ For collecting links, code snippets and other useful stuff.
 ## Links
 [Coding](links/coding.md)  
 [Conferences](links/conferences.md)  
-[Coding Challenges](links/coding-challenges.md)  
 [JMeter](links/jmeter.md)  
 [Misc](links/misc.md)  
 [Procrastination](links/procrastination.md)  
