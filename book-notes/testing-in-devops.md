@@ -10,7 +10,7 @@ https://leanpub.com/testingindevops
 * culture & environment
 * rapid/ frequent/ reliable
 
--> not mentioning tools at all
+→ not mentioning tools at all
 
 * CD != DevOps
 * CD: software is always production ready
@@ -76,3 +76,6 @@ skipped (Installing Apache)
 ##### pages 96-98
 * Destructive Testing
 * Tools: [Netflix Simian Army](https://github.com/Netflix/SimianArmy)
+
+##### pages 122-124
+Risk workshop → Mitigating risk
