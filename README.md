@@ -32,4 +32,5 @@ For collecting links, code snippets and other useful stuff.
 [Selenium](snippets/selenium.md)
 
 ## Tools
-[Git](tools/git.md)
+[Git](tools/git.md)  
+[Postman/ Newman](tools/postman-newman.md)
