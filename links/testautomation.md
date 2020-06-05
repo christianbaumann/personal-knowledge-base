@@ -36,6 +36,7 @@
 ## Selenium
 [Browser unaware Selenium tests](https://imalittletester.com/2020/03/18/browser-unaware-selenium-tests-step-1-identify-oss-on-which-to-run-tests-choose-browsers-to-support/)  
 [Docker Selenium Tutorial: How To Integrate Selenium Grid With Docker](https://www.softwaretestinghelp.com/docker-selenium-tutorial/)  
+[How To Download Files With Selenium And Why You Shouldn’t](https://ardesco.lazerycode.com/testing/webdriver/2012/07/25/how-to-download-files-with-selenium-and-why-you-shouldnt.html)  
 [Selenium Webdriver Tutorial with JAVA and TestNG (2018 Update)](https://www.swtestacademy.com/selenium-webdriver-tutorial-java-testng/)  
 [Selenium Webdriver wait for JavaScript JQuery and Angular](https://www.swtestacademy.com/selenium-wait-javascript-angular-ajax/)  
 [Setting up Selenium Grid to run your tests in parallel on multiple browsers](https://www.codementor.io/@olawalealadeusi896/setting-up-selenium-grid-to-run-your-tests-in-parallel-on-multiple-browsers-kl6vqi83a)  

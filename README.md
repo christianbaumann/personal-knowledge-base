@@ -34,4 +34,5 @@ For collecting links, code snippets and other useful stuff.
 
 ## Tools
 [Git](tools/git.md)  
+[Maven](tools/maven.md)
 [Postman/ Newman](tools/postman-newman.md)
