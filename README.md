@@ -6,6 +6,7 @@ For collecting links, code snippets and other useful stuff.
 
 ## Book Notes
 [Bullet Journaling](book-notes/bullet-journaling.md)  
+[Introducing Maven](book-notes/introducing-maven.md)  
 [Testing in DevOps](book-notes/testing-in-devops.md)
 
 ## Books to read
