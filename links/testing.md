@@ -1,5 +1,9 @@
 # Testing
 
+## Approval Testing
+[Characterization Testing (aka Golden Master Testing)](https://sqa.stackexchange.com/questions/29696/what-is-snapshot-testing/29713#29713)    
+[Why we should be saying ‘Approval Testing’ instead of ‘Golden Master’](https://proagile.se/blog/say-approval-testing-instead-of-golden-master)  
+
 ## Contract Testing
 [API Contract Testing Made Easy](https://thethinkingtester.blogspot.com/2020/03/api-contract-testing-made-easy.html)  
 [Consumer Driven Contract Testing — A scalable testing strategy for Microservices](https://medium.com/john-lewis-software-engineering/consumer-driven-contract-testing-a-scalable-testing-strategy-for-microservices-3f2b09f99ed1)  
