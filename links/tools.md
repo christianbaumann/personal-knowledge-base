@@ -9,7 +9,11 @@
 
 ## JavaScript
 [JS Bin - Collaborative JavaScript Debugging](https://jsbin.com/)  
-[JSFiddle - Code Playground](https://jsfiddle.net/)
+[JSFiddle - Code Playground](https://jsfiddle.net/)  
+
+## JSON
+[JSON Schema Generator](https://jsonschema.net/home)  
+[JSON Minify](https://www.cleancss.com/json-minify/)  
 
 ## Mocking
 [Mockoon](https://mockoon.com/)  
