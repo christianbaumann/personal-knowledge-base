@@ -13,6 +13,7 @@ For collecting links, code snippets and other useful stuff.
 [Books to read](books-to-read/books-to-read.md)
 
 ## Links
+[Agile Testing Games](/links/agile-testing-games.md)  
 [Coding](links/coding.md)  
 [Conferences](links/conferences.md)  
 [JMeter](links/jmeter.md)  
