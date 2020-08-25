@@ -8,4 +8,5 @@
 [Make-Leseproben](https://www.heise.de/make/artikel/Make-Leseproben-3079861.html)    
 [playingcards.io](http://playingcards.io)  
 [What is REST — A Simple Explanation for Beginners](https://medium.com/extend/what-is-rest-a-simple-explanation-for-beginners-part-1-introduction-b4a072f8740f)
-[Strategy](https://photos.app.goo.gl/yHHNyCny6iRGDZFQ6)    
+[Strategy](https://photos.app.goo.gl/yHHNyCny6iRGDZFQ6)  
+[Writing an Effective Request](https://testobsessed.com/2020/07/writing-an-effective-request/)  

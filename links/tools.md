@@ -8,7 +8,6 @@
 [FitNesse Fixture Gallery](http://fitnesse.org/FitNesse.UserGuide.FixtureGallery)  
 [Test Driven .NET Development with FitNesse](https://gojko.net/books/test-driven-net-with-fitnesse/)  
 
-
 ## Git
 [Git Command Explorer](https://gitexplorer.com/ "Find the right commands you need without digging through the web.")  
 [Oh Shit, Git!?!](https://ohshitgit.com/)
