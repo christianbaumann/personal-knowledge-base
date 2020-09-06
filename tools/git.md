@@ -1,9 +1,18 @@
 # Git
 
+#### Add changes to last (local) commit  
+`git add file(s)`  
+`git commit --amend`  
+
 #### Show remote URL
 Without Network `git config --get remote.origin.url`  
 With Network `git remote show origin`
 
+#### Stash changes away you're not ready to commit yet  
+`git stash save "save message"`  
+Retrieve them later with  
+`git stash list`  
+`git stash pop <stash_item_hash>`  
 
 #### Stop tracking and ignore changes to a file/ apply .gitignore to the present/future
 Source: [Stackoverflow](https://stackoverflow.com/questions/936249/how-to-stop-tracking-and-ignore-changes-to-a-file-in-git/58208920#58208920)  
