@@ -8,6 +8,9 @@
 [FitNesse Fixture Gallery](http://fitnesse.org/FitNesse.UserGuide.FixtureGallery)  
 [Test Driven .NET Development with FitNesse](https://gojko.net/books/test-driven-net-with-fitnesse/)  
 
+## Formatter
+[Free Formatter](https://www.freeformatter.com/) (Formatter & Validator)  
+
 ## Git
 [Git Command Explorer](https://gitexplorer.com/ "Find the right commands you need without digging through the web.")  
 [Oh Shit, Git!?!](https://ohshitgit.com/)
@@ -18,6 +21,7 @@
 [JSONPath Online Evaluator](https://jsonpath.com/)  
 
 ## JSON
+[JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/)  
 [JSON Schema Generator](https://jsonschema.net/home)  
 [JSON Minify](https://www.cleancss.com/json-minify/)  
 
@@ -26,8 +30,8 @@
 
 ## Regular Expressions
 [RegExer](https://regexr.com/)  
-[Regular expressions 101](https://regex101.com/)  
-[Rubular](https://rubular.com/ "a Ruby regular expression editor")
+[Regular expressions 101](https://regex101.com/)  (PCRE (PHP), ECMAScript (JavaScript), Python & Golang)  
+[Rubular](https://rubular.com/ "a Ruby regular expression editor") (Ruby)  
 
 ## SQL
 [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
