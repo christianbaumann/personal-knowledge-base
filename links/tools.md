@@ -34,5 +34,5 @@
 [Rubular](https://rubular.com/ "a Ruby regular expression editor") (Ruby)  
 
 ## SQL
-[Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
+[Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)  
 [SQLFlow](https://gudusoft.com/sqlflow/#/)
