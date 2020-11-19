@@ -26,11 +26,11 @@
 [Testing In The Pub](https://testinginthepub.co.uk/testinginthepub/category/podcast/) ([RSS](https://testinginthepub.co.uk/testinginthepub/feed/podcast/))  
 [Testing One on One](https://qablog.practitest.com/podcast/)  
 [Testing Podcast](https://testingpodcast.com/)  
-[Woman Who Test](Women Who Test) ([RSS](https://womenwhochangetech.libsyn.com/rss))
 
 ## Others
 [Maintainable](https://maintainable.fm/) ([RSS](https://feeds.simplecast.com/7y1CbAbN))  
-[PerfBytes](https://www.spreaker.com/show/perfbytes) ([RSS](https://www.spreaker.com/show/697080/episodes/feed))
+[PerfBytes](https://www.spreaker.com/show/perfbytes) ([RSS](https://www.spreaker.com/show/697080/episodes/feed))  
+[Software Crafts Podcast](https://softwarecraftspodcast.libsyn.com/) ([RSS](http://softwarecraftspodcast.libsyn.com/rss))
 
 ## Collections
 [Awesome list of Important Podcasts for software engineers](https://github.com/rShetty/awesome-podcasts#awesome-list-of-important-podcasts-for-software-engineers)  
