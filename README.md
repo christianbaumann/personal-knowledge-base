@@ -31,7 +31,8 @@ For collecting links, code snippets and other useful stuff.
 [Random notes](random-notes/random-notes.md)
 
 ## Snippets
-[REST Assured](snippets/rest-assured.md)
+[REST Assured](snippets/rest-assured.md)  
+[Stackoverflow](snippets/stack-overflow.md)
 [Selenium](snippets/selenium.md)
 
 ## Tools
