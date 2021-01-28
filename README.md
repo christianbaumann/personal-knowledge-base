@@ -14,6 +14,7 @@ For collecting links, code snippets and other useful stuff.
 
 ## Links
 [Agile Testing Games](/links/agile-testing-games.md)  
+[Chrome](/links/chrome.md)  
 [Coding](links/coding.md)  
 [Conferences](links/conferences.md)  
 [JMeter](links/jmeter.md)  
