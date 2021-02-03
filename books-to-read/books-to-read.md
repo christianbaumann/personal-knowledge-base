@@ -17,6 +17,8 @@
 [Sooner Safer Happier: Patterns and Antipatterns for Organizational Agility](https://www.goodreads.com/book/show/50343488-sooner-safer-happier)  
 [Software in 30 Days: How Agile Managers Beat the Odds, Delight Their Customers, And Leave Competitors In the Dust](https://www.goodreads.com/book/show/13589272-software-in-30-days)    
 [The Agile Samurai](https://www.oreilly.com/library/view/the-agile-samurai/9781680500066/)  
+[The Goal: A Process of Ongoing Improvement](https://www.goodreads.com/book/show/27404812-the-goal)  
+[The Nature of Software Development](https://www.goodreads.com/book/show/23016056-the-nature-of-software-development)  
 [The New New Product Development Game](https://hbr.org/1986/01/the-new-new-product-development-game)           
 [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)  
 [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around)      
