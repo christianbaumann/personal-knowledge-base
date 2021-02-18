@@ -1,5 +1,11 @@
 # Job Interviews
 
+#### Possible interview questions and answers  
+https://twitter.com/BusikaMagumuza/status/1361899360653627392  
+
+#### Top 5 questions I like to ask about the company and role I'm applying for  
+https://twitter.com/theworstdev/status/1233753582069002241  
+
 #### When interviewing for a job, when asked the salary question, turn that back around on the interviewer (nicely)!
 Source: https://www.kickassfacts.com/5-life-pro-tips-of-the-week-part-222/
 
