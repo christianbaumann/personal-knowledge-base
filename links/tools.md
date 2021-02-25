@@ -35,4 +35,8 @@
 
 ## SQL
 [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)  
-[SQLFlow](https://gudusoft.com/sqlflow/#/)
+[SQLFlow](https://gudusoft.com/sqlflow/#/)  
+
+## Test data generation
+[BestRandoms](https://www.bestrandoms.com/)  
+[Mockaroo](https://www.mockaroo.com/)  
