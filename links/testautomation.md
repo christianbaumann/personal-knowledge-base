@@ -13,7 +13,8 @@
 
 ## Misc
 [5 ways to drive your automation engineers away](https://techbeacon.com/app-dev-testing/5-ways-drive-your-automation-engineers-away)  
-[11 Test Automation Metrics and their Pros & Cons](https://www.sealights.io/test-metrics/11-test-automation-metrics-and-their-pros-cons/)  
+[11 Test Automation Metrics and their Pros & Cons](https://www.sealights.io/test-metrics/11-test-automation-metrics-and-their-pros-cons/)
+[Automation Cookbook](https://applitools.com/on-demand-videos/cookbook/)    
 [A Context-Driven Approach to Automation in Testing](https://www.youtube.com/watch?v=4vcMddaAzDs&amp)  
 [A test automation learning path](https://www.linkedin.com/pulse/test-automation-learning-path-bas-dijkstra/)  
 [Automation Coding Practices to Adopt: Code Like a Developer](https://blog.testproject.io/2020/03/16/automation-coding-practices-adopt-code-like-a-developer/)  
