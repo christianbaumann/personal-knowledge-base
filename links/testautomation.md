@@ -30,6 +30,9 @@
 ## .Net
 [.NET Interop: Automate Acceptance Testing With IronRuby](https://msdn.microsoft.com/en-us/magazine/dd453038.aspx)  
 
+## Playwright  
+[Playing with Playwright – Java API](https://applitools.com/blog/playwright-java/)  
+
 ## Postman
 [How to automate REST API end-to-end tests in a CI environment with Postman and Newman](https://www.freecodecamp.org/news/how-to-automate-rest-api-end-to-end-tests/amp/)  
 [Postman Quick Reference Guide](https://postman-quick-reference-guide.readthedocs.io/en/latest/index.html)  
