@@ -17,6 +17,7 @@
 [Tips for Writing Better Charters for Exploratory Testing Sessions with Michael D.Kelly](https://www.youtube.com/watch?v=dOQuzQNvaCU)  
 
 ## Misc  
+[Awesome Sites To Test On (A curated list of sites to practice testing on)](https://github.com/BMayhew/awesome-sites-to-test-on)  
 [Become an ethical hacker with this free 15-hour penetration testing course](https://www.freecodecamp.org/news/full-penetration-testing-course/)
 [Break Your App With This One Weird Trick](https://thethinkingtester.blogspot.com/2019/08/break-your-app-with-this-one-weird-trick.html)  
 [Email testing for web applications](https://work2code.com/how-to-test-email-address-feature/)  
