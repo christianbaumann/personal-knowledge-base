@@ -28,7 +28,7 @@ For collecting links, code snippets and other useful stuff.
 [Tools](links/tools.md)
 
 ## Notes
-[Job interviews](random-notes/job-interviews.md)  
+[Job interviews/ Hiring](random-notes/job-interviews-hiring.md)  
 [Random notes](random-notes/random-notes.md)
 
 ## Snippets

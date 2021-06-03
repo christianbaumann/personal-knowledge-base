@@ -1,4 +1,7 @@
-# Job Interviews
+# Job Interviews/ Hiring
+
+#### Hiring questions
+https://thinkinglabs.io/articles/2021/05/27/hiring-questions.html
 
 #### Possible interview questions and answers  
 https://twitter.com/BusikaMagumuza/status/1361899360653627392  
