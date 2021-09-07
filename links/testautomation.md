@@ -25,6 +25,7 @@
 [naughtyStrings.json](https://gist.github.com/DannyDainton/b820904694a91e20de1ad900cdeb3a94)
 [TEST AUTOMATION & MACHINE LEARNING](http://www.sumondey.com/)  
 [The Fallacy of the 100% test coverage](https://github.com/thinkinglabs/the-100percent-test-coverage-fallacy)  
+[Verify an XPath expression in the browser](https://stackoverflow.com/a/22573161/641135)  
 [What's That Smell? Tidying Up Our Test Code](https://www.youtube.com/watch?v=e-Qya7EOz_0)  
 
 ## .Net
