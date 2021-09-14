@@ -42,12 +42,16 @@
 [Browser unaware Selenium tests](https://imalittletester.com/2020/03/18/browser-unaware-selenium-tests-step-1-identify-oss-on-which-to-run-tests-choose-browsers-to-support/)  
 [Docker Selenium Tutorial: How To Integrate Selenium Grid With Docker](https://www.softwaretestinghelp.com/docker-selenium-tutorial/)  
 [How To Download Files With Selenium And Why You Shouldn’t](https://ardesco.lazerycode.com/testing/webdriver/2012/07/25/how-to-download-files-with-selenium-and-why-you-shouldnt.html)  
+[Lean Test Automation Architecture using Java and Selenium WebDriver](https://github.com/eliasnogueira/selenium-java-lean-test-architecture)  
 [Selenium Webdriver Tutorial with JAVA and TestNG (2018 Update)](https://www.swtestacademy.com/selenium-webdriver-tutorial-java-testng/)  
 [Selenium Webdriver wait for JavaScript JQuery and Angular](https://www.swtestacademy.com/selenium-wait-javascript-angular-ajax/)  
 [Setting up Selenium Grid to run your tests in parallel on multiple browsers](https://www.codementor.io/@olawalealadeusi896/setting-up-selenium-grid-to-run-your-tests-in-parallel-on-multiple-browsers-kl6vqi83a)  
 [Setting up Selenium WebDriver for Java](https://www.hindsightsoftware.com/blog/selenium-webdriver-java)  
 [Testing Angular Applications Using Selenium](https://blog.vsoftconsulting.com/blog/testing-angular-applications-using-selenium)  
 [Why Selenium clicks fail](https://www.lucidchart.com/techblog/2020/01/21/why-selenium-clicks-fail/)
+
+## Test Data
+[Test Data Factory: Why and How to Use](http://www.eliasnogueira.com/test-data-factory-why-and-how-to-use/)  
 
 ## TestNG
 [Parametrize to Execute TestNG.xml using Maven](https://www.seleniumeasy.com/maven-tutorials/choose-selected-testng-xml-files-to-execute-using-maven)
