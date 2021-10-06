@@ -11,6 +11,9 @@
 [Docker and Your Path to a Better Staging Environment](https://applitools.com/blog/docker-staging-environment)  
 [Docker for Windows in Test Automation - Part 1](https://www.youtube.com/watch?v=r5C5fxYRg2I#docker)  
 
+## Maven
+Getting Started with Maven in Less Than 10 Minutes – [Part 1](https://blog.testproject.io/2021/06/28/getting-started-with-maven-part-1/) – [Part 2](https://blog.testproject.io/2021/06/28/getting-started-with-maven-part-2/)
+
 ## Misc
 [5 ways to drive your automation engineers away](https://techbeacon.com/app-dev-testing/5-ways-drive-your-automation-engineers-away)  
 [11 Test Automation Metrics and their Pros & Cons](https://www.sealights.io/test-metrics/11-test-automation-metrics-and-their-pros-cons/)  
