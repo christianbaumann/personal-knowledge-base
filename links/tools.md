@@ -40,3 +40,6 @@
 ## Test data generation
 [BestRandoms](https://www.bestrandoms.com/)  
 [Mockaroo](https://www.mockaroo.com/)  
+
+## Wget
+[Wget Wizard](https://www.whatismybrowser.com/developers/tools/wget-wizard/)  
