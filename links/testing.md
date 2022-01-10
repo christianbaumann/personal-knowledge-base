@@ -31,5 +31,8 @@
 ## Penetration Testing
 [Better API Penetration Testing with Postman](https://blog.secureideas.com/2019/03/better-api-penetration-testing-with-postman-part-1.html)
 
+## Smoke Testing
+[Smoke Testing Cheat Sheet](smoke_testing_testingxperts.jpg) ([Source](https://twitter.com/woodjessica19/status/1471430687991414784))  
+
 ## TDD/ Unit Testing
 [Does TDD take more time, or less?](https://player.vimeo.com/video/264655634)  
