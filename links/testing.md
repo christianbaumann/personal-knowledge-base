@@ -16,6 +16,12 @@
 [ALL ROADS LEAD TO EXPLORATORY TESTING](https://www.womentesters.com/all_roads_lead_to_et/)  
 [Tips for Writing Better Charters for Exploratory Testing Sessions with Michael D.Kelly](https://www.youtube.com/watch?v=dOQuzQNvaCU)  
 
+## Heuristics
+[FEW HICCUPPS (Michael Bolton)](https://www.developsense.com/blog/2012/07/few-hiccupps/)  
+[RCRCRC (Karen Nicole Johnson)](http://karennicolejohnson.com/2009/11/a-heuristic-for-regression-testing/) 
+[Test Heuristics Cheat Sheet (Elizabeth Hendrickson)](https://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf)
+[10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)  
+
 ## Misc  
 [Awesome Sites To Test On (A curated list of sites to practice testing on)](https://github.com/BMayhew/awesome-sites-to-test-on)  
 [Become an ethical hacker with this free 15-hour penetration testing course](https://www.freecodecamp.org/news/full-penetration-testing-course/)
