@@ -26,6 +26,7 @@ For collecting links, code snippets and other useful stuff.
 [Testautomation](links/testautomation.md)  
 [Testing](links/testing.md)  
 [Tools](links/tools.md)
+[User Stories/ Refinements](links/user_stories-refinements.md)
 
 ## Notes
 [Job interviews/ Hiring](random-notes/job-interviews-hiring.md)  
