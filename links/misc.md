@@ -1,5 +1,8 @@
 # Misc
 
+### Ensemble (Mob) Programming
+[Our Team's First Mobbing Session](https://www.lisihocke.com/2017/04/our-teams-first-mobbing-session.html)  
+
 ### Misc
 [10 powerful strategies for breaking down User Stories in Scrum (with cheats)](https://medium.com/the-liberators/10-powerful-strategies-for-breaking-down-user-stories-in-scrum-with-cheatsheet-2cd9aae7d0eb)  
 [Agile Retrospectives (Slidedeck by Esther Derby)](https://www.slideshare.net/estherderby/agile-retrospectives-4976896)  
