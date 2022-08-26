@@ -43,7 +43,7 @@ Getting Started with Maven in Less Than 10 Minutes – [Part 1](https://blog.tes
 
 ## Practice Sites
 [WANT TO PRACTICE TEST AUTOMATION? TRY THESE DEMO SITES!](https://automationpanda.com/2021/12/29/want-to-practice-test-automation-try-these-demo-sites/)  
-[Applitools demo] (Web UI)](https://demo.applitools.com/)  
+[Applitools demo) (Web UI)](https://demo.applitools.com/)  
 [Automation Bookstore (Web UI)](https://automationbookstore.dev/)  
 [Automation Practice Website (Web UI))](http://automationpractice.com/)  
 [Best Buy API Playground (API)](https://github.com/BestBuy/api-playground)   
