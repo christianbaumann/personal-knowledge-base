@@ -60,6 +60,7 @@ Getting Started with Maven in Less Than 10 Minutes – [Part 1](https://blog.tes
 [Public APIs (API)](https://github.com/public-apis/public-apis/blob/master/README.md)  
 [RealWorld example apps (Web UI)](https://codebase.show/projects/realworld)  
 [Restful Booker (Web UI & API)](https://automationintesting.online/)  
+[Sample web pages to interact with UI automation tools](http://selenium.thinkcode.se/)  
 [Sauce Labs Native Sample Application (Mobile UI)](https://github.com/saucelabs/sample-app-mobile)  
 [SelectorsHub Practice Page (Web UI)](https://selectorshub.com/xpath-practice-page/)  
 [Selenium Test Pages (Web UI)](https://testpages.herokuapp.com/styled/index.html)  
