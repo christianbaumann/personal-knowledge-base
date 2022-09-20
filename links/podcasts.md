@@ -7,6 +7,7 @@
 [Cucumber Podcast](https://cucumber.io/blog/podcast/bdd-and-ddd-cucumber-podcast/) ([RSS](https://feeds.soundcloud.com/users/soundcloud:users:181591133/sounds.rss))  
 [Let's Talk About Tests Baby](https://letstalkabouttests.xyz/)  
 [PurePerformance](https://www.spreaker.com/show/pureperformance) ([RSS](https://www.spreaker.com/show/1746210/episodes/feed))  
+[Quality Bits](https://qualitybits.buzzsprout.com/)  
 [Quality Coaching Roadshow](https://www.spreaker.com/show/quality-coaching) ([RSS](https://www.spreaker.com/show/4152501/episodes/feed))  
 [Quality Remarks](https://www.listennotes.com/podcasts/quality-remarks-the-podcast-keith-klain-df-EmybMrei/) ([RSS](https://www.listennotes.com/podcasts/quality-remarks-the-podcast-keith-klain-df-EmybMrei/#))  
 [Quality Sense](https://abstracta.us/software-testing-podcast.html) 
