@@ -40,5 +40,8 @@
 ## Smoke Testing
 [Smoke Testing Cheat Sheet](smoke_testing_testingxperts.jpg) ([Source](https://twitter.com/woodjessica19/status/1471430687991414784))  
 
+## Test Data Generation
+[Auto Test Data](https://autotestdata.com/)
+
 ## TDD/ Unit Testing
 [Does TDD take more time, or less?](https://player.vimeo.com/video/264655634)  
