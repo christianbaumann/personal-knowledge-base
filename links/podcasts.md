@@ -5,6 +5,7 @@
 [Animal Testing](https://www.listennotes.com/c/59e643eb734d4a3d8f626def8181deae/) ([RSS](https://anchor.fm/s/15280f54/podcast/rss))    
 [Continuous Testing Live](https://www.listennotes.com/c/c4c1082e63114ba8bf2fc003ce6a07ba/) ([RSS](https://feeds.soundcloud.com/users/soundcloud:users:363462161/sounds.rss))  
 [Cucumber Podcast](https://cucumber.io/blog/podcast/bdd-and-ddd-cucumber-podcast/) ([RSS](https://feeds.soundcloud.com/users/soundcloud:users:181591133/sounds.rss))  
+[How it's tested](https://www.heavybit.com/library/podcasts/how-its-tested) ([RSS](https://www.heavybit.com/category/library/podcasts/how-its-tested/feed/feed.rss))  
 [Let's Talk About Tests Baby](https://letstalkabouttests.xyz/)  
 [PurePerformance](https://www.spreaker.com/show/pureperformance) ([RSS](https://www.spreaker.com/show/1746210/episodes/feed))  
 [QA Therapy](https://anchor.fm/qa-therapy-podcast)  
