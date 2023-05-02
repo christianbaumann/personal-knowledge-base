@@ -29,6 +29,7 @@
 [Email testing for web applications](https://work2code.com/how-to-test-email-address-feature/)  
 [Mobile Testing Cheat Sheet](https://medium.com/@DanielKnott/mobile-testing-cheat-sheet-852ec763b670)  
 [Scenario cards to create test ideas in a visual way and cover more than just the happy path.](https://github.com/MaibornWolff/scenario-cards)  
+[You Are Not Done Yet checklist by Michael J. Hunter](https://thebraidytester.com/downloads/YouAreNotDoneYet.pdf) [PDF](YouAreNotDoneYet.pdf)  
 
 ## PDF Testing
 [Apache PDFBox](https://memorynotfound.com/apache-pdfbox-extract-text-pdf-document/)  
