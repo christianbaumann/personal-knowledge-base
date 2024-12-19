@@ -84,7 +84,7 @@ Getting Started with Maven in Less Than 10 Minutes – [Part 1](https://blog.tes
 [Playground Epizy](http://playground.epizy.com/)  
 [Practice Sofware Testing](practicesoftwaretesting.com)  
 [Public APIs (API)](https://github.com/public-apis/public-apis/blob/master/README.md)  
-[QA Automation Practice (WEB UI & API)](https://qa-practice.netlify.app/)  
+[QA Practice Elements (WEB UI & API)](https://qa-practice.netlify.app/)  
 [QA Playground](https://qaplayground.dev/)  
 [React Shopping Cart](https://react-shopping-cart-67954.firebaseapp.com/)  
 [RealWorld example apps (Web UI)](https://codebase.show/projects/realworld)  
